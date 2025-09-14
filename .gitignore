@@ -1,0 +1,16 @@
+/public
+/resources/
+/.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+*.swp
+
+/public
+/resources
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
